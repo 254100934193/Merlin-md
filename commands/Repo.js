@@ -25,7 +25,7 @@ const formatUptime = (seconds) => {
 // Fetch GitHub stats and multiply by 10
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/Keithkeizzah/ALPHA-MD");
+        const response = await axios.get("https://api.github.com/repos/254100934193/Merlin-md");
         const forksCount = response.data.forks_count * 11; 
         const starsCount = response.data.stargazers_count * 11; 
         const totalUsers = forksCount + starsCount; 
@@ -45,7 +45,7 @@ keith({
     const { repondre, auteurMessage, nomAuteurMessage } = context;
 
     try {
-        const response = await axios.get("https://api.github.com/repos/Keithkeizzah/ALPHA-MD");
+        const response = await axios.get("https://api.github.com/repos/254100934193/Merlin-md");
         const repoData = response.data;
 
         if (repoData) {
