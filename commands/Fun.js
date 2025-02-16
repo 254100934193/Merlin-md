@@ -230,14 +230,14 @@ keith({
     const response = await axios.get("https://nekos.life/api/v2/fact");
     const data = response.data;
     const factMessage = `
-┏━━━━ *ALPHA-FACT* ━━━━━◆                     
+┏━━━━ *MERLIN-FACT* ━━━━━◆                     
 ┃
 ┃   *◇* ${data.fact} 
 ┃
-┃   *◇* Regards *ALPHA MD*
+┃   *◇* Regards *MUNGAI YOBIH*
 ┃      
  ╭────────────────◆
- │ *_Powered by keithkeizzah._*
+ │ *_Powered by mungaiyobih._*
  ╰─────────────────◆
     `;
 
@@ -276,10 +276,10 @@ keith({
 ┃  
 ┃   *◇* *AUTHOR:* ${data.quote.author}
 ┃      
-┃    *◇*  *regards ALPHA MD*
+┃    *◇*  *regards MUNGAI YOBIH*
 ┃    
 ╭────────────────◆
-│ *_Powered by keithkeizzah._*
+│ *_Powered by mungaiyobih._*
 ╰─────────────────◆
     `;
 
@@ -330,7 +330,7 @@ keith({
       "```Device successfully connected...\nReceiving data...```",
       "```Data hijacked from device 100% completed\nKilling all evidence, killing all malwares...```",
       "```HACKING COMPLETED```",
-      "```SENDING LOG DOCUMENTS...```",
+      "```I'm sir Mungai Yobih...```",
       "```SUCCESSFULLY SENT DATA AND Connection disconnected```",
       "```BACKLOGS CLEARED```",
       "```POWERED BY ${conf.BOT}```",
