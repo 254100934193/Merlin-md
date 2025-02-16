@@ -23,7 +23,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner. or Alpha owner* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner. or Mungai only* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -65,7 +65,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -106,7 +106,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -146,7 +146,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -187,7 +187,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -228,7 +228,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -269,7 +269,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -310,7 +310,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -350,7 +350,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or Mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -390,7 +390,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -472,7 +472,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -554,7 +554,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -595,7 +595,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -636,7 +636,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -676,7 +676,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or mungai only.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -774,7 +774,7 @@ keith({
     { nom: "CHAT_BOT", choix: ['on', 'off'] }
   ];
 
-  let settingsMenu = "╭──────༺♡༻──────╮\n  Alpha-Md Settings\n╰──────༺♡༻──────╯\n\n";
+  let settingsMenu = "╭──────༺♡༻──────╮\n  Merlin-md Settings\n╰──────༺♡༻──────╯\n\n";
   settingsOptions.forEach((option, index) => {
     settingsMenu += `${index + 1}- *${option.nom}*\n`;
   });
@@ -794,7 +794,7 @@ keith({
   });
 
   const selectedOption = settingsOptions[userChoice.message.extendedTextMessage.text - 1];
-  let settingsDetail = `╭──────༺♡༻──────╮\n  Alpha-Md settings\n╰──────༺♡༻──────╯\n\n`;
+  let settingsDetail = `╭──────༺♡༻──────╮\n  Merlin-md settings\n╰──────༺♡༻──────╯\n\n`;
   settingsDetail += `*Variable Name* : ${selectedOption.nom}\n`;
   settingsDetail += `*Description* : ${getDescriptionFromEnv(selectedOption.nom)}\n\n`;
   settingsDetail += "┌────── ⋆⋅☆⋅⋆ ──────┐\n\n";
