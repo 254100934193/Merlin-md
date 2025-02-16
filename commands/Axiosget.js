@@ -21,7 +21,7 @@ keith({
       text: news,
       contextInfo: {
         externalAdReply: {
-          title: "ALPHA-MD TECH NEWS",
+          title: "MUNGAI TECH NEWS",
           body: "keep learning", 
           thumbnailUrl: thumbnail, 
           sourceUrl: conf.GURL, 
@@ -81,7 +81,7 @@ keith({
     
     const data = response.data;
     const messageText = `
-ᬑ *ALPHA HOLY BIBLE* ᬒ
+ᬑ *MUNGAI'S HOLY BIBLE* ᬒ
 
 ⧭ *_WE'RE READING:_* ${data.reference}
 
@@ -98,7 +98,7 @@ keith({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "ALPHA-MD HOLY BIBLE",
+          title: "MERLIN YOBIH-MD HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/zt9ie6.jpg", 
@@ -153,7 +153,7 @@ keith({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "ALPHA-MD DICTIONARY",
+            title: "YOBIH MUNGAI DICTIONARY",
             body: `Definition of ${term}`,
             mediaType: 1,
             thumbnailUrl: "https://files.catbox.moe/28j7yx.jpg", 
@@ -187,12 +187,12 @@ keith({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Wait Alpha Md is getting your pair code 💧✅...*";
+    const replyText = "*Wait YOBIH MD is getting your pair code 💧✅...*";
     await repondre(replyText);
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
-    const apiUrl = `https://keith-sessions-pi5z.onrender.com/code?number=${encodedNumber}`;
+    const apiUrl = `https://yobih9029.onrender.com/code?number=${encodedNumber}`;
 
     // Fetch the pairing code from the API
     const response = await axios.get(apiUrl);
@@ -204,7 +204,7 @@ keith({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "ALPHA-MD PAIR CODE",
+            title: "YOBIH-MD PAIR CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
@@ -249,7 +249,7 @@ keith({
     const thumb = data.image; // Assuming the API returns an 'image' property for the element thumbnail
 
     const formattedMessage = `
-*Alpha Md Element Information:*
+*Merlin Md Element Information:*
 🚀 *Name:* ${data.name}
 🚀 *Symbol:* ${data.symbol}
 🚀 *Atomic Number:* ${data.atomic_number}
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "ALPHA-MD ELEMENT INFORMATION",
+          title: "MERLIN MD ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -291,7 +291,7 @@ keith({
   const githubUsername = arg.join(" ");
 
   if (!githubUsername) {
-    return repondre("Give me a valid GitHub username like: github keithkeizzah");
+    return repondre("Give me a valid GitHub username like: github 254100934193");
   }
 
   try {
@@ -324,7 +324,7 @@ keith({
       text: githubMessage,
       contextInfo: {
         externalAdReply: {
-          title: "ALPHA-MD GITHUB USER INFO",
+          title: "MERLIN-MD GITHUB USER INFO",
           body: `Information about ${data.login}`,
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -467,7 +467,7 @@ keith({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by Alpha Md
+> Powered by MUNGAI YOBIH
     `;
     repondre(texa);
   } catch (err) {
