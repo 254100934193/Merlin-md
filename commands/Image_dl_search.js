@@ -36,7 +36,7 @@ keith({
         caption: `*Downloaded by ${conf.BOT}*`,
         contextInfo: {
           externalAdReply: {
-            title: "Image Search Result",
+            title: "Image Search Result BY MUNGAI",
             body: `Here's the image you searched for: ${searchTerm}`,
             thumbnailUrl: results[i].url,
             sourceUrl: conf.GURL,
