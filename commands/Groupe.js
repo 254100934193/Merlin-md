@@ -27,7 +27,7 @@ keith({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
 
   // Prepare the initial message tag
   let tag = `========================\n  
-        🌟 *ALPHA-MD* 🌟
+        🌟 *MERLIN-MD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
@@ -108,7 +108,7 @@ keith({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
             if (admin == false) {
               const stickerUrl = stickers[Math.floor(Math.random() * stickers.length)];
               const sticker = new Sticker(stickerUrl, {
-                pack: 'ALPHA-MD',
+                pack: 'YOBIH-MD',
                 author: nomAuteurMessage,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -154,7 +154,7 @@ keith({ nomCom: "add", categorie: 'Group', reaction: "👨🏿‍💼" }, async 
   const isImAdmin = participants.participants.some(p => p.id === zk.user.jid && p.isAdmin);
   if (!isImAdmin) return repondre("I'm not an admin.");
   const match = msgRepondu?.participant || arg[0];
-  if (!match) return repondre('Example: add 254757835036');
+  if (!match) return repondre('Example: add 254743436105');
   
   const res = await zk.groupParticipantsUpdate(dest, [match], 'add');
 if (res === '403') return repondre('Failed, Invite sent.');
@@ -162,7 +162,7 @@ if (res === '403') return repondre('Failed, Invite sent.');
 
   const stickerUrl = stickers[Math.floor(Math.random() * stickers.length)];
   const sticker = new Sticker(stickerUrl, {
-    pack: 'ALPHA-MD',
+    pack: 'MERLIN-MD',
     author: nomAuteurMessage,
     type: StickerTypes.FULL,
     categories: ['🤩', '🎉'],
@@ -203,7 +203,7 @@ keith({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, as
 
               const stickerUrl = stickers[Math.floor(Math.random() * stickers.length)];
               const sticker = new Sticker(stickerUrl, {
-                pack: 'ALPHA-MD',
+                pack: 'MUNGAI-MD',
                 author: auteurMessage,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -261,7 +261,7 @@ const txt = `@${auteurMsgRepondu.split("@")[0]} has been removed from their posi
 
               const stickerUrl = stickers[Math.floor(Math.random() * stickers.length)];
               const sticker = new Sticker(stickerUrl, {
-                pack: 'ALPHA-MD',
+                pack: 'MERLIN-MD',
                 author: auteurMessage,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -656,7 +656,7 @@ keith({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'ALPHA-MD-tag',
+          pack: 'YOBIH-MD-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
