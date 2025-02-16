@@ -94,7 +94,7 @@ keith({
 
     // Prepare the message caption with video details
     const caption = `
-     *𝐀𝐋𝐏𝐇𝐀 𝐌𝐃 𝐅𝐁 𝐃𝐋*
+     *MERLIN FB DOWNLOAD *
     |__________________________|
     |       *ᴅᴜʀᴀᴛɪᴏɴ*  
            ${videoData.result.duration}
@@ -160,12 +160,12 @@ keith({
         if (responseText === '1') {
           await zk.sendMessage(dest, {
             video: { url: videoDetails.links.SD },
-            caption: "*𝐀𝐋𝐏𝐇𝐀 𝐌𝐃*",
+            caption: "*YOBIH 𝐌𝐃*",
           }, { quoted: messageContent });
         } else if (responseText === '2') {
           await zk.sendMessage(dest, {
             video: { url: videoDetails.links.HD },
-            caption: "*𝐀𝐋𝐏𝐇𝐀 𝐌𝐃*",
+            caption: "*YOBIH 𝐌𝐃*",
           }, { quoted: messageContent });
         } else if (responseText === '3') {
           await zk.sendMessage(dest, {
@@ -229,7 +229,7 @@ keith({
     let tiktokData = await downloadTiktok(arg[0]);
 
     const caption = `
-     *𝐀𝐋𝐏𝐇𝐀 𝐌𝐃 𝐓𝐈𝐊𝐓𝐎𝐊 𝐃𝐋*
+     *MERLIN MD TIKTOK DL*
     |__________________________|
     |-᳆        *ᴛɪᴛʟᴇ*  
      ${tiktokData.result.title}
@@ -276,12 +276,12 @@ keith({
         if (responseText === '1') {
           await zk.sendMessage(keithdl, {
             video: { url: tiktokLinks.dl_link.download_mp4_1 },
-            caption: "*𝐀𝐋𝐏𝐇𝐀 𝐌𝐃*",
+            caption: "*YOBIH 𝐌𝐃*",
           }, { quoted: messageContent });
         } else if (responseText === '2') {
           await zk.sendMessage(keithdl, {
             video: { url: tiktokLinks.dl_link.download_mp4_2 },
-            caption: "*𝐀𝐋𝐏𝐇𝐀 𝐌𝐃*",
+            caption: "*YOBIH 𝐌𝐃*",
           }, { quoted: messageContent });
         } else if (responseText === '3') {
           await zk.sendMessage(keithdl, {
