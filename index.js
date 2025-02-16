@@ -95,7 +95,7 @@ const {
 let {
   reagir
 } = require(__dirname + "/keizzah/app");
-var session = conf.session.replace(/ALPHA-MD;;;=>/g, "");
+var session = conf.session.replace(/MERLIN-MD;;;=>/g, "");
 const prefixe = conf.PREFIXE || [];
 
 require('dotenv').config({
@@ -142,7 +142,7 @@ setTimeout(() => {
       logger: pino({
         level: "silent"
       }),
-      browser: ['ALPHA-MD', "safari", "1.0.0"],
+      browser: ['MERLIN-MD', "safari", "1.0.0"],
       printQRInTerminal: true,
       fireInitQueries: false,
       shouldSyncHistoryMessage: true,
@@ -642,7 +642,7 @@ if (conf.AUTO_LIKE_STATUS === "yes") {
           quoted: ms
         });
       }
-      console.log("\t [][]...{Alpha-md}...[][]");
+      console.log("\t [][]...{Merlin-md}...[][]");
       console.log("=========== New message ===========");
       if (verifGroupe) {
         console.log("message sent from : " + nomGroupe);
@@ -1362,10 +1362,10 @@ if (texte && texte.startsWith('>')) {
         connection
       } = con;
       if (connection === "connecting") {
-        console.log("ℹ️ Alpha md connecting in your account...");
+        console.log("ℹ️ Melin md by Mungai connecting in your account...");
       } else if (connection === 'open') {
         
-        console.log("✅ Alpha Md connected successfully✔");
+        console.log("✅ Merlin Md connected successfully✔");
         console.log("--");
         0;
         await baileys_1.delay(200);
@@ -1399,7 +1399,7 @@ if (texte && texte.startsWith('>')) {
         } else {
           md = "undefined";
         }
-        console.log("Alpha md successfully connected✅");
+        console.log("Merlin md successfully connected✅");
         await activateCrons();
 const getGreeting = () => {
         const currentHour = DateTime.now().setZone('Africa/Nairobi').hour;
