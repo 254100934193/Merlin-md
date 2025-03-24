@@ -1,14 +1,14 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
+  "name": "MERLIN-MD",
+  "description": "Merlin md is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
+  "repository": "https://github.com/254100934193/Merlin-md",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -99,7 +99,7 @@
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "",
+      "value": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -108,8 +108,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '254796299159')",
-      "value": "254796299159",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254743436105')",
+      "value": "254743436105",
       "required": false
     },
     "WARN_COUNT": {
