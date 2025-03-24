@@ -1,92 +1,108 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 </h1>
+# Yobih_BUG-BOT
+
+[![Yobih bot_MD](https://readme-typing-svg.demolab.com?font=Anton&size=24&pause=676&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Yobih-MD+Bot;I+am+Programmed+by+Mungai+Yobih;Mungai+Yobih+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya;Mungai+Loves+You+All)](https://github.com/254100934193/Yobih_Bot-MD)
+
+<h1 align="center"> YOBIH_BUG_BOT 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<p align="center">  
 
  
-<h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
-</h1>
-
-
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-
-<details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
-- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
-- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
-
-</details>
-
-
-**👇FORK REPO**
-
-  
-
-<a href="https://github.com/keithkeizzah/ALPHA-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
-
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD&template=https://github.com/keithkeizzah/ALPHA-MD.git)***
-
-<br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/keithkeizzah/KEITH-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+***
   
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Green+Ops+One&size=47&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MUNGAI+YOBIH;RELEASED+15.8.2024" alt="Typing SVG" /></a>
+  </p>
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
-
-**𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/DvXonepPp1XBPOYIBziTl1" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+![CASSERHODES](https://github.com/user-attachments/assets/16b7e158-c745-48d1-8df6-7af115e94ac0)
 
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
+  **PLEASE FORK MY REPO AND GIVE A STAR FOR COURAGE**
 
+  **MUNGAI WISHES TO THANKS YOU'LL FOR YOUR SUPPORT**
+
+ 
+## Deployment Methods!
+
+
+![red_devil_face_vector_logo](https://github.com/user-attachments/assets/60e10870-0799-49bc-8bae-1a89f0e7d6c4)
+
+---
+1. ***Get [`SESSION ID`](https://yobih9029.onrender.com/)  `Whatapp>Three dots>Linked Devices`***
+2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
+3.  ***Click [`FORK`](https://github.com/254100934193/Yobih-Bug-Bot/fork)*** Must Fork This REPO before deployment
+
+### PAIR CODE {RECOMMENDED AND EASIEST}
+
+<a href="https://yobih9029.onrender.com/"><img src="https://img.shields.io/badge/PAIR CODE-green" alt="Click Here to Get Pair-Code" width="110"></a>   
    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### SERVER 1 ( replit ) 
 
-### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @Keithkeizzah/ALPHA-MD](http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD)](https://github.com/Keithkeizzah/ALPHA-MD/stargazers)
-     
-[![Forkers repo roster for @Keithkeizzah/ALPHA-MD](http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD)](https://github.com/Keithkeizzah/ALPHA-MD/network/members)
+<a href="https://replit.com/@mungaibrian36/mungai-session-id-generator"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Click Here to Get Pair-Code" width="90"></a>
 
-Enjoy the diverse features of 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃  to enhance your Whatsapp more enjoyable
+***
 
+#### DEPLOY TO HEROKU 
+**1. If You Don't Have An Account On Heroku**
+
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+**2. If You Have a Heroku Account**
+  - <a align="center"><a href="https://dashboard.heroku.com/new?button-url=https://github.com/254100934193/Yobih-Bug-Bot-MD&template=https://github.com/254100934193/Yobih-Bug-Bot"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+---
+
+- Star ⭐ repo if you like this bot.
+
+
+Yobih bot one of the best bots in universe
+
+**SURVIVING IS WINNING FRANKLING,,,EVERYTHING ELSE IS BULL SH**T**
+
+**Yobih_bot FOREVER**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Ops+One&size=30&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS TO +YOBIH-BOT;MULTI+DEVICE+WHATSAPP+BOT;THANKS+FOR+CHOOSING+ME;GOD+BLESS+MUNGAI" alt="Typing SVG" /></a>
+  </p>
+
+
+### CONTRIBUTIONS 
+-Contributions to YOBIH_BUG_BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+### DEVELOPER:
+**GET In Touch with The Owner**
+
+- <a href="https://wa.me/254743436105" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+* [✅ Join my official Channel ⚡](https://whatsapp.com/channel/0029Vajp1HY4o7qSc0kE9o1g)
+**HOW TO DEPLOY YOBIH_BOT**
+
+1.Fork the repository first and give a star
+
+2.Click on SESSION_ID and pair with your whatsapp account
+
+3.Click on deploy and fill all the required steps
+
+
+
+**BOOM YOU'RE CONNECTED TO YOBIH_BOT MD**
+
+
+
+[![YOBIH BOT_MD](https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=340&lines=Have+a%F0%9F%91%8B!+Day;goodluck+on+your+deployment;programmed+by+Mungai+Yobih🥰)]
+
+  
+
+
+
