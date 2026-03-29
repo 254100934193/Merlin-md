@@ -1,167 +1,84 @@
 {
-  "name": "merlin",
-  "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
-  "keywords": [
-    "bot",
-    "node",
-    "baileys",
-    "whatsapp"
-  ],
-  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
+  "name": "MERLIN MD",
+  "description": "Multi-Device WhatsApp Bot by DEV.MUNGAI YOBIH",
   "repository": "https://github.com/254100934193/Merlin-md",
-  "succes_url": "/",
+  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
+  "keywords": ["whatsapp", "bot", "casper", "multi-device"],
   "stack": "container",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
   "env": {
-    "PREFIX": {
-      "description": "Choose your bot's prefix",
-      "value": ".",
+    "SESSION": {
+      "description": "WhatsApp session string (https://mungai2544-480d11a7979f.herokuapp.com/)",
       "required": true
     },
-    "AUTO_READ_STATUS": {
-      "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
+    "OWNER_NUMBERS": {
+      "description": "Comma-separated owner phone numbers (e.g. 254xxxxxxxxx)",
       "required": false
     },
-    "AUDIO_REPLY": {
-      "description": "Enter yes for your bot to auto reply audio in all chats",
-      "value": "yes",
-      "required": false
-    },
-    "AUTO_REPLY": {
-      "description": "when enabled it automatically sends auto reply message to members in your pm",
-      "value": "no",
-      "required": false
-    },
-    "AUTO_REACT_STATUS": {
-      "description": "Your contact status will be react automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
-      "required": false
-    },
-    "AUTO_BIO": {
-      "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
-      "value": "yes",
-      "required": false
-    },
-    "AUTO_SAVE_CONTACTS": {
-      "description": "Enter yes for your bot to auto save contacts",
-      "value": "no",
-      "required": false
-    },
-    "AUTO_DOWNLOAD_STATUS": {
-      "description": "Your contact status will be downloaded automatically and sent to you (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "no",
-      "required": false
-    },
-    "PM_PERMIT": {
-      "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "no",
-      "required": false
-    },
-    "AUTO_STATUS_TEXT": {
-      "description": "type your genuine status message",
-      "value": "viewed ✅✅",
-      "required": false
-    },
-    "AUTO_STATUS_REPLY": {
-      "description": "type your genuine status message",
-      "value": "no",
-      "required": false
-    },
-    "ANTI_CALL_TEXT": {
-      "description": "Type your anticall message to always send when calls are declined.You can as well leave it blank",
-      "value": "My owner don't receive any call now because it's busy",
+    "OWNER_NAME": {
+      "description": "Owner display name",
+      "value": "mungai",
       "required": false
     },
     "BOT_NAME": {
-      "description": "you must give a name for you bot uhh??!!",
-      "value": "Merlin Md",
-      "required": false 
-    },
-    "PUBLIC_MODE": {
-      "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "description": "Bot display name",
+      "value": "YOBIH BUG BOT",
       "required": false
     },
-    "HEROKU_API_KEY": {
-      "description": "Insert your Heroku API key (required)",
-      "value": "HRKU-21f94f36-4701-4c14-8c77-e3f0d998fea8",
+    "BOT_MODE": {
+      "description": "Bot mode: public or self",
+      "value": "public",
       "required": false
     },
-    "HEROKU_APP_NAME": {
-      "description": "Insert your Heroku app name (required)",
-      "value": "",
-      "required": true
-    },
-    "SESSION_ID": {
-      "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
-      "required": true
-    },
-    "OWNER_NAME": {
-      "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Mungai",
+    "PREFIX": {
+      "description": "Command prefix",
+      "value": ".",
       "required": false
     },
-    "URL": {
-      "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
-      "required": true
-    },
-    "AUTO_READ_MESSAGES": {
-      "description": "yes toactivate no to deactivate",
-      "value": "no",
-      "required": false  
-    },
-    "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "26777821911",
+    "TIMEZONE": {
+      "description": "Timezone",
+      "value": "Africa/Nairobi",
       "required": false
     },
-    "WARN_COUNT": {
-      "description": "Set the warning limit for warning commands",
-      "value": "5",
+    "WELCOME": {
+      "description": "Enable welcome messages (true/false)",
+      "value": "false",
       "required": false
     },
-    "STARTING_BOT_MESSAGE": {
-      "description": "Set 'yes' to display a starting bot message or 'no' to disable it",
-      "value": "no",
-      "required": true
-    },
-    "PRESENCE": {
-      "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
-      "value": "",
+    "ADMIN_EVENT": {
+      "description": "Admin event notifications (true/false)",
+      "value": "false",
       "required": false
     },
-    "ANTI_DELETE_MESSAGE": {
-      "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "no",
+    "AUTO_VIEW": {
+      "description": "Auto-view statuses (true/false)",
+      "value": "false",
       "required": false
     },
-    "ANTI_CALL": {
-      "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+    "AUTO_REACT": {
+      "description": "Auto-react to statuses (true/false)",
+      "value": "false",
       "required": false
     },
-    "AUTO_BLOCK": {
-      "description": "Type true if you want bot to automatically block those who spam your dm",
-      "value": "no",
+    "PACK_NAME": {
+      "description": "Sticker pack name",
+      "value": "MUNGAI",
       "required": false
     },
-    "AUTO_REACTION": {
-      "description": "Set 'yes' to enable bot reactions to messages in private chats",
-      "value": "no",
+    "STICKER_AUTHOR": {
+      "description": "Sticker author text",
+      "value": "MUNGAI",
       "required": false
     }
   },
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "standard-2x"
-    }
-  },
-  "addons": [
+  "buildpacks": [
     {
-      "plan": "heroku-postgresql:essential-0"
+      "url": "heroku/nodejs"
     }
   ]
 }
