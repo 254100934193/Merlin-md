@@ -1,84 +1,17 @@
-{
-  "name": "MERLIN MD",
-  "description": "Multi-Device WhatsApp Bot by DEV.MUNGAI YOBIH",
-  "repository": "https://github.com/254100934193/Merlin-md",
-  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
-  "keywords": ["whatsapp", "bot", "casper", "multi-device"],
-  "stack": "container",
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "eco"
-    }
-  },
-  "env": {
-    "SESSION": {
-      "description": "WhatsApp session string (https://mungai2544-480d11a7979f.herokuapp.com/)",
-      "required": true
-    },
-    "OWNER_NUMBERS": {
-      "description": "Comma-separated owner phone numbers (e.g. 254xxxxxxxxx)",
-      "required": false
-    },
-    "OWNER_NAME": {
-      "description": "Owner display name",
-      "value": "mungai",
-      "required": false
-    },
-    "BOT_NAME": {
-      "description": "Bot display name",
-      "value": "YOBIH BUG BOT",
-      "required": false
-    },
-    "BOT_MODE": {
-      "description": "Bot mode: public or self",
-      "value": "public",
-      "required": false
-    },
-    "PREFIX": {
-      "description": "Command prefix",
-      "value": ".",
-      "required": false
-    },
-    "TIMEZONE": {
-      "description": "Timezone",
-      "value": "Africa/Nairobi",
-      "required": false
-    },
-    "WELCOME": {
-      "description": "Enable welcome messages (true/false)",
-      "value": "false",
-      "required": false
-    },
-    "ADMIN_EVENT": {
-      "description": "Admin event notifications (true/false)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_VIEW": {
-      "description": "Auto-view statuses (true/false)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_REACT": {
-      "description": "Auto-react to statuses (true/false)",
-      "value": "false",
-      "required": false
-    },
-    "PACK_NAME": {
-      "description": "Sticker pack name",
-      "value": "MUNGAI",
-      "required": false
-    },
-    "STICKER_AUTHOR": {
-      "description": "Sticker author text",
-      "value": "MUNGAI",
-      "required": false
-    }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ]
-}
+{                                                                     
+  "name": "yobih bug bot",                                           
+  "description": "WhatsApp bot.",                                       
+  "repository": "https://github.com/254100934193/Merlin-md",                                                                     
+  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",           
+  "keywords": ["nodejs", "Cod3Uchiha", "multi device"],                                               
+  "buildpacks": [                                                     
+    {                                                                   
+      "url": "heroku/nodejs"                                        
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"                                                            
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"                                                                  
+    }                                                            
+  ]                                                            
